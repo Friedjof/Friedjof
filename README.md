@@ -28,14 +28,17 @@ Computer Science Stundent TU Munich
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/friedjof/AutomaticChickenFeeder" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=AutomaticChickenFeeder&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/friedjof/CardinalSense" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=CardinalSense&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/friedjof/AutomaticChickenFeeder" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=AutomaticChickenFeeder&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/friedjof/CardinalSense" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=CardinalSense&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br />
 
-<div width="100%" align="center"><a href="https://github.com/friedjof/Plotter" align="left"><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=Plotter&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/friedjof/SyncRTC" align="right"><img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=SyncRTC&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/friedjof/Plotter" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=Plotter&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/friedjof/SyncRTC" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=friedjof&repo=SyncRTC&title_color=3382ed&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/friedjof"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<ul style="list-style-type: none; margin: 0;">
 
-<a href="https://www.ko-fi.com/friedjof"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/friedjof"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/friedjof"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+</ul>
