@@ -6,7 +6,7 @@ Computer Science Stundent TU Munich
 
 *   🌍  I'm based in Munich, Germany
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/friedjof-noweck-02a4401aa/)
-*   ✉️  You can contact me at [git@noweck.info](mailto:git@noweck.info)
+*   ✉️  You can contact me at [git@noweck.info](mailto:programming@noweck.info)
 <a href="https://www.github.com/friedjof" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/friedjof?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
