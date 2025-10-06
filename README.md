@@ -1,9 +1,6 @@
 Hi 👋 My name is Friedjof Noweck
 ================================
 
-Computer Science Stundent TU Munich
------------------------------------
-
 *   🌍  I'm based in Munich, Germany
 *   🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/friedjof-noweck-02a4401aa/)
 *   ✉️  You can contact me at [dev@noweck.info](mailto:dev@noweck.info)
